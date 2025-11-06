@@ -1,10 +1,10 @@
 # PieCash
 
-[![Version](https://img.shields.io/badge/Version-4.1.0-blue)](https://github.com/aRc-rAy/SpendBook/releases) [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://github.com/aRc-rAy/SpendBook) [![Framework](https://img.shields.io/badge/Framework-React%20Native-61DAFB)](https://reactnative.dev/)
+[![Version](https://img.shields.io/badge/Version-4.1.0-blue)](https://github.com/aRc-rAy/PieCash/releases) [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://github.com/aRc-rAy/PieCash) [![Framework](https://img.shields.io/badge/Framework-React%20Native-61DAFB)](https://reactnative.dev/)
 
 ## Download
 
-<img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="24"/> **[Android APK](https://github.com/aRc-rAy/SpendBook/releases/download/v4.1.0/piecash-v4.1.0.apk)**
+<img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="24"/> **[Android APK](https://github.com/aRc-rAy/PieCash/releases/download/v4.1.0/piecash-v4.1.0.apk)**
 
 <img src="https://img.icons8.com/ios-filled/50/mac-os.png" alt="iOS" width="24"/> **iOS - Coming Soon**
 
