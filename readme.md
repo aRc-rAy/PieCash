@@ -4,7 +4,9 @@
 
 ## Download
 
-<img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="24"/> **[Android APK](https://github.com/aRc-rAy/PieCash/releases/download/v4.1.0/PieCash-v4.1.0-arm32.apk)**
+<img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="24"/> **Android**
+- [Download for Modern Phones](https://github.com/aRc-rAy/PieCash/releases/download/v4.1.0/PieCash-v4.1.0-arm64.apk) (Recommended - 4GB+ RAM)
+- [Download for Older Phones](https://github.com/aRc-rAy/PieCash/releases/download/v4.1.0/PieCash-v4.1.0-arm32.apk) (Under 4GB RAM)
 
 <img src="https://img.icons8.com/ios-glyphs/48/C0C0C0/mac-os.png" alt="iOS" width="24"/> **iOS - Coming Soon**
 
